@@ -1,12 +1,12 @@
-# V-Dashboard
+# TM-Dashboard
 
-V-Dashboard is a web application built with React, Redux Toolkit, Bootstrap, and Firebase. It provides users with three functionalities: creating website shortcuts, writing to-do lists, and a notes section. Users can create their accounts, and data will be saved on Firebase. Additionally, users can try out the application without signing up, which doesn't save data permanently on the dashboard.
+TM-Dashboard is a web application built with React, Redux Toolkit, Bootstrap, and Firebase. It provides users with three functionalities: creating website shortcuts, writing to-do lists, and a notes section. Users can create their accounts, and data will be saved on Firebase. Additionally, users can try out the application without signing up, which doesn't save data permanently on the dashboard.
 
 ## Installation
 
 To run the application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/vishesh-pandey/v-dashboard.git`
+1. Clone the repository: `https://github.com/Aman-sparrow/TM-dashboard.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
@@ -48,7 +48,7 @@ Users can create notes by clicking on the "Add Note" button on the dashboard. Th
 
 ## Deployment
 
-The application is deployed on GitHub Pages and can be accessed at https://vishesh-pandey.github.io/v-dashboard/.
+The application is deployed on GitHub Pages
 
 ## Contributing
 
